@@ -1,9 +1,7 @@
-Complaint Box | Tech-Stack: NodeJS, ReactJS, MongoDB, ExpressJS, Tailwind
-– A multiversal solution to hitches, to put you out of every predicament.
-– The platform provides a healthy interaction with skilled workers honed especially in your problem area.
-– The website comes with highly encrypted authentication, users can register their complaints and workers can
-accept and resolve them.
-– Spearheaded the integration of a robust Rating System, enabling real-time feedback collection and analysis.
-– Features: User Login/Signup, One can add multiple professions, Standard/ Custom Complaints, Add/Delete/Up-
-date complaints, Workers of different professions can select the complaint they want to take, Ratings on complaints
-by the resolved work done on them
+Web Chat App | Tech-Stack: NodeJS, HTML, CSS, JavaScript 
+– The platform enables users to communicate with each other in real-time.
+– To access the messaging feature on our platform, users are required to first log in using their username. Once
+logged in, they will be directed to a landing page where they can send and receive messages.
+– Upon logging in, the user will receive a welcome message, while all other members in the group will be notified
+that a new user has joined the chat.
+– User can send messages in real time that will be immediately received by all other members in the group.
